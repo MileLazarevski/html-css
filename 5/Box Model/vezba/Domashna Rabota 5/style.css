@@ -1,0 +1,131 @@
+* {
+    box-sizing: border-box;
+    }
+.info {
+    background: #358EAE;
+    height: 100px;
+    width: 99%;
+    text-align: center;
+}
+.info h1 {
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    margin: 0 auto;
+    padding: 15px;
+}
+.nav {
+    background: #5C676D;
+    height: 70px;
+    width: 99%;
+    margin-top: 10px;
+    text-align: center;
+}
+.nav p {
+    font-size: 50px;
+    color: #ffffff;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    margin: 0 auto;     
+    padding: 5px;
+    font-weight: bold;
+}
+.content {
+    width: 100%;
+}
+.left {
+    width:59%;
+    height: 400px;
+    background:#70BDC7;
+    margin-top: 10px;
+    float: left;
+    overflow: scroll;
+}
+.left p {
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+    padding: 20px;
+    font-size: 20px;
+    margin: 0 auto;
+}
+.right {
+    width: 40%;
+    height: 400px;
+    background:#70BDC7;
+    margin-top: 10px;
+    margin-left: 15px;
+    float: left;
+    padding: 10px;
+    overflow: scroll;
+    text-align: center;
+}   
+.right ol {
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+    padding-left: 45px;
+    font-size: 20px;
+    margin: 0 auto;
+}
+.right h1 {
+    margin: 0 auto;
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 15px;
+}
+.add {
+    height: 350px;
+    width: 0 auto;
+    padding: 20px;
+}
+
+.addLeft {
+    width: auto;
+    height:350px;
+    float: left;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    overflow: hidden;
+    margin: 10px;
+}
+.addLeft img {
+    width: auto;
+    height: 100%;
+}
+.addMiddle {
+    width: auto;
+    height:350px;
+    float: left;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    overflow: hidden;
+    margin: 10px;
+}
+.addMiddle img {
+    width: auto;
+    height: 100%;
+}
+.addRight {
+    width: auto;
+    height:350px;
+    float: left;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    overflow: hidden;
+    margin: 10px;
+}
+.addRight img {
+    width: auto;
+    height: 100%;
+}
+.contact {
+    clear: both;
+}
+.contact h2 {
+    width: 100%;
+    height: 100px;
+    background-color: #5C676D;  
+    clear: both;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 35px;
+}

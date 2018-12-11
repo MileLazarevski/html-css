@@ -1,0 +1,27 @@
+body {
+    background: #C1B4DE
+}
+
+h1 {
+    background: yellow
+}
+.paraf {
+    color: green
+}
+.sec {
+    border: 5px dotted;
+    color: black;
+    text-align: center;
+}
+input[type="text"] {
+    border: 3px solid red;
+    width: 200px;
+}
+.ime {
+    background: lightgrey;
+    border: 2px solid blue;
+}
+input[type="submit"]{
+    background: red;
+    color: white;
+}
